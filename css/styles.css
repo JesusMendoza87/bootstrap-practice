@@ -1,4 +1,4 @@
-body{
+main{
     background-image: linear-gradient(red, yellow);
 
     background-repeat: no-repeat;
@@ -11,4 +11,10 @@ body{
 }
 .onlineicon{
     color: greenyellow;
+}
+.par-indent{
+    text-indent: 50px;
+}
+.underlining{
+    text-decoration: underline;
 }
